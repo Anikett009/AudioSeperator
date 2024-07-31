@@ -22,3 +22,7 @@ $ python train.py
 The pretrained model was then used on 'Bye Bye Bye' song, which is placed in the ``songs`` directory.The separated sources, together with the monaural source, were saved to the ``main-demo`` directory.
 The seperated sources are not perfect as the dataset is not large enough and the model should be experimented with more layers.
 
+## To-Do List
+Evaluate against other models such as U-Net
+Train on bigger dataset and more layers
+Create front-end interface 
