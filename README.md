@@ -25,6 +25,6 @@ The seperated sources are not perfect as the dataset is not large enough and the
 ## To-Do List
 Evaluate against other models such as U-Net.<br />
 
-Train on bigger dataset and more layers.</br/>
+Train on bigger dataset and more layers.<br/>
 
 Create front-end interface.
