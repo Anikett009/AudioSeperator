@@ -23,6 +23,8 @@ The pretrained model was then used on 'Bye Bye Bye' song, which is placed in the
 The seperated sources are not perfect as the dataset is not large enough and the model should be experimented with more layers.
 
 ## To-Do List
-Evaluate against other models such as U-Net
-Train on bigger dataset and more layers
-Create front-end interface 
+Evaluate against other models such as U-Net.<br />
+
+Train on bigger dataset and more layers.</br/>
+
+Create front-end interface.
