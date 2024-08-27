@@ -22,9 +22,20 @@ $ python train.py
 The pretrained model was then used on 'Bye Bye Bye' song, which is placed in the ``songs`` directory.The separated sources, together with the monaural source, were saved to the ``main-demo`` directory.
 The seperated sources are not perfect as the dataset is not large enough and the model should be experimented with more layers.
 
+## Streamlit Interface
+Added a streamlit interface for the user to upload an mp3 file and get the seperated audios as output.
+Landing Page:
+<p align="center">
+    <img src = "./figures/landingpg" width="90%">
+</p>
+
+Output:
+<p align="center">
+    <img src = "./figures/output.png" width="90%">
+</p>
+
 ## To-Do List
 Evaluate against other models such as U-Net.<br />
 
 Train on bigger dataset and more layers.<br/>
 
-Create front-end interface.
