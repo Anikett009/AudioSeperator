@@ -11,11 +11,11 @@ This is a singing voice seperation tool developed using recurrent neural network
 $ python train.py
 ```
 <p align="center">
-    <img src = "./figures/training_loss.png" width="80%">
+    <img src = "./figures/training_loss.png" width="75%">
 </p>
 
 <p align="center">
-    <img src = "./figures/training_validation_loss.png" width="80%">
+    <img src = "./figures/training_validation_loss.png" width="75%">
 </p>
 
 ## Example
@@ -27,12 +27,12 @@ Added a streamlit interface for the user to upload an mp3 file and get the seper
 
 Landing Page:
 <p align="center">
-    <img src = "./figures/landingpg.png" width="80%">
+    <img src = "./figures/landingpg.png" width="90%">
 </p>
 
 Output:
 <p align="center">
-    <img src = "./figures/output.png" width="80%">
+    <img src = "./figures/output.png" width="90%">
 </p>
 
 ## To-Do List
